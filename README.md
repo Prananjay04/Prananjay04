@@ -2,7 +2,6 @@
 - I am currently pursuing B.E.degree in Information Technology.
 - 👀 I’m interested in Software Development and Android Application Development.
 - 🌱 I’m currently learning Data Structure and trying to contribute in open source.
-- 💞️ I’m looking to collaborate on open source projects to explore myself more.
 - 📫 You can reach me at my gmail- prananjaykandekar12@gmail.com.
 
 <!---
