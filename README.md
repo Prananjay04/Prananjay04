@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Prananjay Kandekar.
--     I am currently pursuing B.E.degree in Information Technology.
+-     I am currently working as a Product Engineer at TCS.
 - 👀 I’m interested in Software Development(Java/Python) and Android Application Development(Java).
 - 🌱 I’m currently learning Data Structure and Algorithms.
-- 📫 You can reach me at my gmail- prananjaykandekar12@gmail.com.
+- 📫 You can reach me at my email- prananjaykandekar12@gmail.com.
 -     Linkedin Profile: www.linkedin.com/in/prananjaykandekar
 
 <!---
